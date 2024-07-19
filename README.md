@@ -28,15 +28,15 @@ Power BI
 
 ## Packages and Libraries
 
-import json
-import time
-import pandas as pd
+import json   
+import time   
+import pandas as pd   
 
-import streamlit as st
-from streamlit_option_menu import option_menu
-import plotly.express as px
+import streamlit as st   
+from streamlit_option_menu import option_menu   
+import plotly.express as px   
 
-from sqlalchemy import create_engine
+from sqlalchemy import create_engine   
 import mysql.connector
 
 ## Overview
@@ -67,7 +67,9 @@ With the assistance of Streamlit and Plotly, a dashboard and charts are created,
 
 ## Power BI
 
-Power BI dashboard provides interactive visualizations and insights derived from the Airbnb dataset. It allows you to explore various aspects of Airbnb listings, including pricing trends, property types, and geographical distributions.
+Power BI dashboard provides interactive visualizations and insights derived from the Airbnb dataset. It allows you to explore various aspects of Airbnb listings, including pricing trends, property types, and geographical distributions.  
+
+
 ![airbnb-powerbi](https://github.com/user-attachments/assets/297feb38-05cd-4edc-8a4d-6072c703f4e2)
 
 

@@ -20,11 +20,11 @@ Python scripting, Data Preprocessing, Visualization, EDA, Streamlit and PowerBI
 
 ## Technology and Tools
 
-Python 3.12.2
-MYSQL
-Streamlit
-Plotly
-Power BI
+Python 3.12.2    
+MYSQL   
+Streamlit   
+Plotly   
+Power BI   
 
 ## Packages and Libraries
 

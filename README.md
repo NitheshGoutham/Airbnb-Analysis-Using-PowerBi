@@ -2,13 +2,13 @@
 
 ## Introduction
 
--> Accessed and processed a JSON dataset containing Airbnb data from 2019
--> Utilized Python for data transformation, ensuring it fit into a structured DataFrame
--> Applied data preprocessing techniques, including cleaning and organizing, to enhance data quality and usability
--> Leveraged the MySQL Python connector to establish a relational database
--> Inserted the preprocessed data into appropriate tables within the database
--> Developed an interactive dashboard using Streamlit, providing users with a platform to explore insights from the dataset
--> Incorporated dynamic visualizations with Plotly to enrich the dashboard's with sqlalchemy for querying
+-> Accessed and processed a JSON dataset containing Airbnb data from 2019    
+-> Utilized Python for data transformation, ensuring it fit into a structured DataFrame   
+-> Applied data preprocessing techniques, including cleaning and organizing, to enhance data quality and usability   
+-> Leveraged the MySQL Python connector to establish a relational database   
+-> Inserted the preprocessed data into appropriate tables within the database   
+-> Developed an interactive dashboard using Streamlit, providing users with a platform to explore insights from the dataset   
+-> Incorporated dynamic visualizations with Plotly to enrich the dashboard's with sqlalchemy for querying  
 
 ## Domain : 
 
@@ -71,8 +71,9 @@ Power BI dashboard provides interactive visualizations and insights derived from
 ![airbnb-powerbi](https://github.com/user-attachments/assets/297feb38-05cd-4edc-8a4d-6072c703f4e2)
 
 
-Contact
-LINKEDIN: https://www.linkedin.com/in/nithesh-goutham-m-0b0514205/
-WEBSITE: https://digital-cv-using-streamlit.onrender.com/
+## Contact
+
+LINKEDIN: https://www.linkedin.com/in/nithesh-goutham-m-0b0514205/   
+WEBSITE: https://digital-cv-using-streamlit.onrender.com/   
 EMAIL : nitheshgoutham2000@gmail.com
 
